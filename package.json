@@ -1,0 +1,19 @@
+{
+  "name": "nodeauth",
+  "version": "1.0.0",
+  "description": "node authorization with passportJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotanthanh/nodeauth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dotanthanh/nodeauth/issues"
+  },
+  "homepage": "https://github.com/dotanthanh/nodeauth#readme"
+}
